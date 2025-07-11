@@ -1,28 +1,37 @@
-## Olá, eu sou a Gabi 👋
-## Bem vindo ao meu perfil do Github!
-<!--
-**gabiru434/gabiru434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Olá! Eu sou a Gabi
 
-Here are some ideas to get you started:
+Seja muito bem-vindo(a) ao meu perfil no GitHub!  
+Sou estudante de **Informática para Negócios** na FATEC São Bernardo do Campo e estou dando meus primeiros passos no mundo do desenvolvimento web com muita curiosidade, dedicação e vontade de aprender todos os dias.
 
-- 📚 Atualmente estou estudando na Fatec SBC no curso Informática para negócios
-- 💻 Estudando HTML e CSS na Alura 
-## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />      
-<div>
-<a href="https://github.com/gabiru434">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiru434&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiru434&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+---
+
+### 🚀 Sobre mim
+- 📚 Atualmente estudando **HTML e CSS** pela Alura.
+- 🌱 Em constante evolução: aprendendo a programar com foco em Front-end e boas práticas de desenvolvimento.
+- 🤝 Aberta a colaborar em projetos, trocar experiências e crescer na comunidade tech!
+
+---
+
+### 🛠️ Tecnologias que estou aprendendo
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" />
 </div>
-- 👯 
-- 🤔 
-- 💬 
-- 📫 Contatos:
+
+---
+
+### 📊 Estatísticas do GitHub
 <div>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiru434&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabiru434&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-![Snake animation](https://github.com/gabiru434/gabiru434/blob/output/github-contribution-grid-snake.svg)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 📫 Onde me encontrar
+
+[![👩‍💻 Vamos nos conectar no LinkedIn](https://img.shields.io/badge/-Gabrielle%20Coelho-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-cabral-coelho-a2940123b/)
+
+---
+
+✨ Estou construindo meu caminho com criatividade, foco e vontade de fazer a diferença na área de tecnologia. Vamos juntos?
