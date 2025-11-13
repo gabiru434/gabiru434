@@ -24,6 +24,3 @@ Sou estudante de **Informática para Negócios** na FATEC São Bernardo do Campo
 
 [![👩‍💻 Vamos nos conectar no LinkedIn](https://img.shields.io/badge/-Gabrielle%20Coelho-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielle-cabral-coelho-a2940123b/)
 
----
-
-✨ Estou construindo meu caminho com criatividade, foco e vontade de fazer a diferença na área de tecnologia. Vamos juntos?
