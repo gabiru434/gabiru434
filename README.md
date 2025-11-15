@@ -5,10 +5,10 @@ Sou estudante de **Informática para Negócios** na FATEC São Bernardo do Campo
 
 ---
 
-### 🚀 Sobre mim
-- 📚 Atualmente estudando **HTML e CSS** pela Alura.
-- 🌱 Em constante evolução: aprendendo a programar com foco em Front-end e boas práticas de desenvolvimento.
-- 🤝 Aberta a colaborar em projetos, trocar experiências e crescer na comunidade tech!
+### 🌱 Sobre mim
+-  Atualmente estudando **Python** pela Alura.
+-  Em constante evolução: aprendendo a programar com foco em Full-Stack e boas práticas de desenvolvimento.
+-  Aberta a colaborar em projetos, trocar experiências e crescer na comunidade tech!
 
 ---
 
@@ -16,6 +16,8 @@ Sou estudante de **Informática para Negócios** na FATEC São Bernardo do Campo
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" />
+  
 </div>
 
 ---
