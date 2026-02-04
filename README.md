@@ -6,7 +6,7 @@ Sou estudante de **Informática para Negócios** na FATEC São Bernardo do Campo
 ---
 
 ### 🌱 Sobre mim
--  Atualmente estudando **Python** pela Alura.
+-  Atualmente estudando **Python**.
 -  Em constante evolução: aprendendo a programar com foco em Full-Stack e boas práticas de desenvolvimento.
 -  Aberta a colaborar em projetos, trocar experiências e crescer na comunidade tech!
 
